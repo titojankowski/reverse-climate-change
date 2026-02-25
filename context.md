@@ -12,9 +12,9 @@
 
 5. The question is: **is humanity on track for a stable climate by hitting these targets in 2050?**
 
-6. **Regarding decarbonization:** *[Decarbonization progress].* *The idea is there would be a whole decarbonization plan that spins out of this.*
+6. **Regarding decarbonization:** *[Decarbonization progress].* *The idea is there would be a whole decarbonization plan that spins out of this.* Does this alone put us on track? No.
 
-7. **Regarding carbon dioxide removal:** A recent report from RMI and the Bezos Earth Fund models that to be at 10 billion tons of carbon dioxide removal per year by 2050, then 285 million tons per year by 2030 is needed. *(Also: what's happening in 2050 decarbonization targets?)* Last year X was removed, so to be on track 300% year over year growth is needed through 2030. Last year carbon removal grew *[<300%]*. If nothing changes, 2050 will have carbon emissions of X tons per year and carbon dioxide removal of Y tons per year. *(Could do different framing, i.e. net zero by X, 10 GT/year by Z — but that seems less clear framing.)* This is **not on track**. And worse, as the Earth loses albedo and darkens, feedback loops and climate tipping points are coming up sooner than predicted *(sources)*. *The idea is there would be a whole removal plan that spins out of this.*
+7. **Regarding carbon dioxide removal:** A recent report from RMI and the Bezos Earth Fund models that to be at 10 billion tons of carbon dioxide removal per year by 2050, then 285 million tons per year by 2030 is needed. *(Also: what's happening in 2050 decarbonization targets?)* Last year X was removed, so to be on track 300% year over year growth is needed through 2030. Last year carbon removal grew *[<300%]*. If nothing changes, 2050 will have carbon emissions of X tons per year and carbon dioxide removal of Y tons per year. *(Could do different framing, i.e. net zero by X, 10 GT/year by Z — but that seems less clear framing.)* This is **not on track**. And worse, as the Earth loses albedo and darkens, feedback loops and climate tipping points are coming up sooner than predicted *(sources)*. *The idea is there would be a whole removal plan that spins out of this.* Does our progress on removals and decarbonization put us on track? No. Therefore we are on track to miss the goal.
 
 ## What Happens If We Miss?
 
@@ -22,7 +22,7 @@
 
 ## What Can Be Done to Close the Gap?
 
-9 .Long term there's not an alternative to decarbonizing and removing carbon dioxide at gigaton scale. So decarbonization and carbon removal ultimately need to get there *(tighten this up)*. But, what if there was a way to buy some time to make up the gap? *(This may be a weak spot in the argument — perhaps it's better to push harder on removal and decarbonization, find leverage, etc.)*
+9. Long term there's not an alternative to decarbonizing and removing carbon dioxide at gigaton scale. So decarbonization and carbon removal ultimately need to get there *(tighten this up)*. But, what if there was a way to buy some time to make up the gap? *(This may be a weak spot in the argument — perhaps it's better to push harder on removal and decarbonization, find leverage, etc.)* *(is it possible to agree up to point 8 but not agree there's a gap?)*
 
 ### Push Removal and Decarbonization Faster
 
