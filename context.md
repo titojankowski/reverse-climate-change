@@ -10,9 +10,9 @@
 
 3. Climate scientists have also been studying what's needed to achieve that. The target 1.5˚C: decarbonize to net zero plus remove 10 gigatons of carbon dioxide removal per year all by 2050. *(Technically the IPCC doesn't make targets though, so this isn't accurate.)*
 
-4. *[Progress has been made, but how does it relate to the top goal?]*
-
 ## Are We on Track?
+
+4. *[Progress has been made, but how does it relate to the top goal?]*
 
 5. The question is: **is humanity on track for a stable climate by hitting these targets in 2050?**
 
