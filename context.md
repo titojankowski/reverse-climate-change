@@ -32,7 +32,7 @@
 
 10. One thing we can do is push removal and decarbonization faster to make up the gap. For example, if carbon removal this year grows X%, then we make up the gap in just one year. More capital, more investment, more experimentation to get things on track for net zero by 2050 and 10 gigatons of carbon dioxide removal annually. We need breakthroughs in removal and decarbonization broadly. There is some flexibility — if decarbonization goes better, then there may be less carbon removal needed and vice versa, but not entirely. i.e. if net zero happened today we would still need some carbon removal. *(How accurate is that for the above 2050 frame, and how much?)*
 
-### How Much Time Do We Need to Buy?
+### How far behind schedule are we?
 
 11. The goal has been to get decarbonization to net zero and carbon removal to 10 gigaton per year scale by 2050. Let's say because of the delays we're at 2075 instead of 2050. So for the sake of this argument there's a **25 year gap** to make up. *(This is a good point to check whether you agree/disagree, have other thoughts here.)*
 
